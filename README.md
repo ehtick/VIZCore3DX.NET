@@ -94,6 +94,7 @@ VIZCore3DX.NET 라이브러리를 활용한 Windows Forms 예제 프로젝트 �
 | **VIZCore3DX.NET.MeetingNotes** | 3D 모델에 회의용 노트와 주석을 추가하고 관리하는 예제 | 1.5.26.928 |
 | **VIZCore3DX.NET.DecalAnnotation** | 모델 표면에 Text / Image / Arrow Decal을 추가하고 위치, 방향, 화살표 스타일과 Decal별 표시 여부를 조정하는 예제 | 1.5.26.928 |
 | **VIZCore3DX.NET.Snapshot** | 스냅샷을 생성, 복원하고 JSON 파일로 내보내기/가져오기하는 예제 | 1.5.26.928 |
+| **VIZCore3DX.NET.Sketch** | 2D 스케치(선, 도형, 텍스트 등)를 생성하고 스타일 설정, 삭제 및 카메라 고정 상태를 관리하는 예제 | 1.5.26.928 |
 
 ### 측정 / 단면
 | 프로젝트 | 설명 | API version |
