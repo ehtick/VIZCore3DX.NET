@@ -160,6 +160,7 @@ VIZCore3DX.NET 라이브러리를 활용한 Windows Forms 예제 프로젝트 �
 | 프로젝트 | 설명 | API version |
 |---|---|---|
 | **VIZCore3DX.NET.ExportNode** | 전체 모델 또는 선택 노드를 VIZX로 내보내고(노드별 개별 파일 저장 포함), 옵션을 지정해 OBJ로 내보내는 예제 (OBJ는 Model.EnableBody 필요) | 1.5.26.928 |
+| **VIZCore3DX.NET.ExportOptions** | 전체·보이는·렌더링된·선택된 개체, 선택상자·단면상자 안의 개체를 VIZX / VIZ / STL / OBJ 로 내보내는 옵션 조합 예제 (STL·OBJ 는 Model.EnableBody 필요) | 1.5.26.928 |
 | **VIZCore3DX.NET.ExportSTL** | 모델을 STL(ASCII / Binary) 파일로 내보내는 예제 (Model.EnableBody 필요) | 1.5.26.928 |
 | **VIZCore3DX.NET.ExportNodeStatus** | 노드 표시 상태와 리뷰 객체(노트, 측정, 단면, 스냅샷, 데칼)를 파일로 내보내고 가져와 비교·적용하는 예제 | 1.5.26.928 |
 | **VIZCore3DX.NET.VIZXtoVIZ** | 조회 중인 모델을 범위(전체·보이는 개체·화면에 그려진 개체·선택 개체)별로 VIZ 파일로 내보내고, VIZX 파일을 열지 않고 VIZ 파일로 변환하는 예제 | 1.5.26.928 |
